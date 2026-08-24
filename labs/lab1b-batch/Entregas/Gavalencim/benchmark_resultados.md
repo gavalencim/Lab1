@@ -24,11 +24,11 @@ Te contamos todo esto para tener transparencia y para generar más transparencia
 
 ## Consulta #1:
 
-![alt text](<WhatsApp Image 2026-08-22 at 8.57.19 PM.jpeg>)
+![alt text](<WhatsApp Image 2026-08-22 at 8.57.20 PM.jpeg>)
 
 ## Consulta #2:
 
-![alt text](<WhatsApp Image 2026-08-22 at 8.56.51 PM.jpeg>)
+![alt text](<WhatsApp Image 2026-08-22 at 8.56.52 PM.jpeg>)
 
 ## Respuesta a la pregunta:
 
