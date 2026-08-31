@@ -1,12 +1,9 @@
 # Lab 2a · Productor/consumidor Kafka
 
 **Semana:** S6
-**Peso:** parte del 30% de laboratorios (ver `../../docs/evaluacion.md`)
-
-> Guía, rúbrica y entregable se publican en EAFIT Interactiva antes de
-> la sesión correspondiente. Este README se completa esa semana.
-
-## Bitácora de delegación
-
-Recuerda incluir tu bitácora al final de la entrega
-(ver `../../docs/politica-ia.md`).
+**Integrantes:**
+- Athina Alejandra Cappelletti García (aacappellg@eafit.edu.co).
+- David Alejandro Gutiérrez Leal (dagutierrl@eafit.edu.co).
+- Emmanuel Álvarez Castrillón (ealvarezc1@eafit.edu.co).
+- Ginna Alejandra Valencia Macuace (gavalencim@eafit.edu.co).
+- Mariamny Del Valle Ramírez Telles (mvramirezt@eafit.edu.co).
