@@ -565,3 +565,4 @@ que encontraste aquí. No hace falta que sean las decisiones finales —
 es tu plan de partida.
 
 En Silver tendré que normalizar los valores categóricos, especialmente las variantes de region y canal, para evitar que diferencias de mayúsculas, espacios o nombres representen categorías distintas. También tendré que validar total mediante la regla precio_unit × cantidad y tratar los valores nulos, negativos o cero. Además, será necesario clasificar y normalizar vendedor_id según su formato y validar los correos electrónicos. Finalmente, tendré que decidir cómo tratar los registros con valores inválidos sin perder innecesariamente información útil.
+
